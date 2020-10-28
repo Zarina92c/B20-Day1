@@ -3,3 +3,5 @@ This is day1
 We created a git repository 
 
 This is the first file
+
+I am making some changes to file1.txt under B20-Day1 Repository
